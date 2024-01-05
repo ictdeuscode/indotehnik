@@ -1,0 +1,14 @@
+.row {
+    margin-top: 7px;
+}
+
+.btn {}
+
+.label {
+    color: black;
+    font-weight: 500;
+}
+
+th {
+    min-width: 150px;
+}
